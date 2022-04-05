@@ -1,7 +1,7 @@
 # HP3542
 HP3542 - The Legendary HP-35 RPN Calculator for the DM42 Hardware
 
-# COMING SOON
+# COMING SOON ...
 
 ```
 HP3542 - The Legendary HP-35 RPN Calculator for the DM42 Hardware
@@ -17,7 +17,7 @@ Jacques Laporte) a port of the reverse engineered HP-35 ROM for AVR
 microcontroller.
 
 HP3542 uses this HP35-ROM-Engine to offer the calculation power of the HP-35 to
-the DM42 calculator of Swissmicros
+the DM42 calculator of Swissmicros (with finally less then 9 Kilobytes).
 
 Have fun!
 deetee
@@ -60,7 +60,7 @@ Reinstall DM42:
 
 ____________________
 
- SPECIAL FEATURES
+ SPECIAL KEYS
 ____________________
 
 SHIFT  Exit HP3542 to the operating system (DMCP)
@@ -87,7 +87,6 @@ ____________________
     |   *     1     2     3   |
     |   /     0     .     PI  |
     |_________________________|
-
 
 
 ```
