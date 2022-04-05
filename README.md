@@ -33,7 +33,7 @@ settings) - make a backup!
 
 Install HP3542:
 
- * First load HP42-xxx.pgm and (for desired later back switch to DM42)
+ * First load HP3542-xxx.pgm and (for desired later back switch to DM42)
    DM42-x.xx.pgm (technical.swissmicros.com/dm42/firmware/) to the root directory
    of the USB disk.
  * In your DM42 calculator goto SETUP (SHIFT-0)
