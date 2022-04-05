@@ -65,7 +65,7 @@ ____________________
 
 SHIFT  Exit HP3542 to the operating system (DMCP)
 EXIT   Enter suspend mode of DM42 (OFF)
-F1     Not assigned key - shows the battery level (0.-.9; <=2.5V ... >=3V)
+F1     Not assigned key - shows the battery level (0...9; <=2.5V ... >=3V)
 
 
 ____________________
