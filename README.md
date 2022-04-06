@@ -3,11 +3,6 @@
 # COMING SOON ...
 
 ```
-HP3542 - The Legendary HP-35 RPN Calculator for the DM42 Hardware
-
-Emulates the HP-35 (CPU and ROM) on the Swissmicros DM42
-Version 1.0, (c) 2022 by deetee/zooxo
-This software is covered by the 3-clause BSD license.
 
 In January 1972, Hewlett-Packard introduced with the HP-35 the first scientific
 pocket calculator with transcendental functions and revolutionized the way to
