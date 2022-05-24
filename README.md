@@ -1,7 +1,5 @@
 # HP3542 - The Legendary HP-35 RPN Calculator for the DM42 Hardware
 
-# COMING SOON ...
-
 ```
 
 In January 1972, Hewlett-Packard introduced with the HP-35 the first scientific
